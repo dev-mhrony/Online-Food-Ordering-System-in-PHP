@@ -2,6 +2,10 @@
 
 Online Food Ordering System in PHP
 
+## Frontend Preview
+
+![screencapture-localhost-OnlineFood-PHP-2023-02-22-20_44_35](https://user-images.githubusercontent.com/78216965/220661697-31902983-6bcc-4804-864c-37bca11a9cb1.png)
+
 ![screencapture-localhost-OnlineFood-PHP-admin-add-menu-php-2023-02-22-21_01_21](https://user-images.githubusercontent.com/78216965/220661632-ffa898df-7510-4168-a93f-a76cee0d6657.png)
 
 ![screencapture-localhost-OnlineFood-PHP-admin-add-category-php-2023-02-22-21_00_51](https://user-images.githubusercontent.com/78216965/220661659-261ccb24-2858-4807-b69b-705cb3f2425d.png)
@@ -17,8 +21,6 @@ Online Food Ordering System in PHP
 ![screencapture-localhost-OnlineFood-PHP-login-php-2023-02-22-20_44_59](https://user-images.githubusercontent.com/78216965/220661686-7ec1dcc0-97e6-4430-ae8c-b5812e2efcc1.png)
 
 ![screencapture-localhost-OnlineFood-PHP-restaurants-php-2023-02-22-20_44_47](https://user-images.githubusercontent.com/78216965/220661689-c5e2f3e5-5391-4a88-8cf2-6ce4603dd38b.png)
-
-![screencapture-localhost-OnlineFood-PHP-2023-02-22-20_44_35](https://user-images.githubusercontent.com/78216965/220661697-31902983-6bcc-4804-864c-37bca11a9cb1.png)
 
 ![screencapture-localhost-OnlineFood-PHP-admin-all-orders-php-2023-02-22-21_01_28](https://user-images.githubusercontent.com/78216965/220661704-8f88a23b-fc55-45c4-b6e5-6ba5e4a068ac.png)
 
