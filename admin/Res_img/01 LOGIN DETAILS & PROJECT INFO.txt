@@ -1,0 +1,14 @@
+**Log on to https://github/dev-mhrony for more projects!***
+
+**Database Name: code_camp_bd_fos**
+
+**Developed by MH RONY**
+
+**Recommended PHP Version 5.6, 7.4**
+
+
+**Admin Login Details**
+
+Username: admin
+Password: Watch Youtube Video
+
