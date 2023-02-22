@@ -1,3 +1,9 @@
+<!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -64,6 +70,12 @@ if(isset($_POST['submit'] ))
 
 
 ?>
+<!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
 
 <head>
@@ -80,8 +92,21 @@ if(isset($_POST['submit'] ))
     <link href="css/animate.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
 </head>
+<!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
 <body>
+    <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
+
     <div style=" background-image: url('images/img/pimg.jpg');">
         <header id="header" class="header-scroll top-header headrom">
             <nav class="navbar navbar-dark">
@@ -122,6 +147,12 @@ if(isset($_POST['submit'] ))
 
                 </ul>
             </div>
+            <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
             <section class="contact-page inner-page">
                 <div class="container ">
@@ -129,6 +160,12 @@ if(isset($_POST['submit'] ))
                         <div class="col-md-12">
                             <div class="widget">
                                 <div class="widget-body">
+                                    <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
                                     <form action="" method="post">
                                         <div class="row">
@@ -183,6 +220,12 @@ if(isset($_POST['submit'] ))
                     </div>
                 </div>
             </section>
+            <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
 
             <?php include "include/footer.php" ?>
@@ -198,5 +241,11 @@ if(isset($_POST['submit'] ))
         <script src="js/headroom.js"></script>
         <script src="js/foodpicky.min.js"></script>
 </body>
+<!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
 </html>

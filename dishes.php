@@ -1,3 +1,9 @@
+<!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -8,6 +14,12 @@ session_start();
 include_once 'product-action.php'; 
 
 ?>
+<!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
 
 <head>
@@ -17,7 +29,7 @@ include_once 'product-action.php';
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="#">
-    <title>Dishes</title>
+    <title>Dishes || Online Food Ordering System - Code Camp BD</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/animsition.min.css" rel="stylesheet">
@@ -26,6 +38,12 @@ include_once 'product-action.php';
 </head>
 
 <body>
+    <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
     <header id="header" class="header-scroll top-header headrom">
         <nav class="navbar navbar-dark">
@@ -52,6 +70,12 @@ include_once 'product-action.php';
 							}
 
 						?>
+                        <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
                     </ul>
                 </div>
@@ -83,6 +107,12 @@ include_once 'product-action.php';
                                 <figure><?php echo '<img src="admin/Res_img/'.$rows['image'].'" alt="Restaurant logo">'; ?></figure>
                             </div>
                         </div>
+                        <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
                         <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 profile-desc">
                             <div class="pull-left right-text white-txt">
@@ -98,6 +128,12 @@ include_once 'product-action.php';
         </section>
         <div class="breadcrumb">
             <div class="container">
+                <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
             </div>
         </div>
@@ -117,6 +153,12 @@ include_once 'product-action.php';
                         <div class="order-row bg-white">
                             <div class="widget-body">
 
+                                <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
                                 <?php
 
@@ -146,6 +188,12 @@ foreach ($_SESSION["cart_item"] as $item)
 $item_total += ($item["price"]*$item["quantity"]); 
 }
 ?>
+                                <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
 
 
@@ -179,6 +227,12 @@ $item_total += ($item["price"]*$item["quantity"]);
                         </div>
 
 
+                        <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
 
                     </div>
@@ -210,6 +264,13 @@ $item_total += ($item["price"]*$item["quantity"]);
 													
 													 
 													 ?>
+                            <!--  Author Name: MH RONY.
+                                                     GigHub Link: https://github.com/dev-mhrony
+                                                     Facebook Link:https://www.facebook.com/dev.mhrony
+                                                     Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                                                     for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                                                     Visit My Website : developerrony.com -->
+
                             <div class="food-item">
                                 <div class="row">
                                     <div class="col-xs-12 col-sm-12 col-lg-8">
@@ -234,6 +295,12 @@ $item_total += ($item["price"]*$item["quantity"]);
                                 </div>
 
                             </div>
+                            <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
 
                             <?php
@@ -254,53 +321,25 @@ $item_total += ($item["price"]*$item["quantity"]);
             </div>
 
         </div>
+        <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
-        <footer class="footer">
-            <div class="container">
 
-                <div class="row bottom-footer">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-3 payment-options color-gray">
-                                <h5>Payment Options</h5>
-                                <ul>
-                                    <li>
-                                        <a href="#"> <img src="images/paypal.png" alt="Paypal"> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <img src="images/mastercard.png" alt="Mastercard"> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <img src="images/maestro.png" alt="Maestro"> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <img src="images/stripe.png" alt="Stripe"> </a>
-                                    </li>
-                                    <li>
-                                        <a href="#"> <img src="images/bitcoin.png" alt="Bitcoin"> </a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="col-xs-12 col-sm-4 address color-gray">
-                                <h5>Address</h5>
-                                <p>1086 Stockert Hollow Road, Seattle</p>
-                                <h5>Phone: 75696969855</a></h5>
-                            </div>
-                            <div class="col-xs-12 col-sm-5 additional-info color-gray">
-                                <h5>Addition informations</h5>
-                                <p>Join thousands of other restaurants who benefit from having partnered with us.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </footer>
+        <?php include "include/footer.php" ?>
 
     </div>
 
     </div>
-
+    <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
 
     <div class="modal fade" id="order-modal" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog" role="document">
@@ -319,7 +358,12 @@ $item_total += ($item["price"]*$item["quantity"]);
                                 </div>
 
                             </div>
-
+                            <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
                             <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">$ 2.99</span></div>
                             <div class="col-xs-6 col-sm-4 col-lg-4">
                                 <div class="row no-gutter">
@@ -351,7 +395,12 @@ $item_total += ($item["price"]*$item["quantity"]);
                                 </div>
 
                             </div>
-
+                            <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
                             <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">$ 2.49</span></div>
                             <div class="col-xs-6 col-sm-4 col-lg-4">
                                 <div class="row no-gutter">
@@ -383,7 +432,12 @@ $item_total += ($item["price"]*$item["quantity"]);
                                 </div>
 
                             </div>
-
+                            <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
                             <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">$ 1.99</span></div>
                             <div class="col-xs-6 col-sm-4 col-lg-4">
                                 <div class="row no-gutter">
@@ -415,7 +469,12 @@ $item_total += ($item["price"]*$item["quantity"]);
                                 </div>
 
                             </div>
-
+                            <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->
                             <div class="col-xs-6 col-sm-2 col-lg-2 text-xs-center"> <span class="price pull-left">$ 3.15</span></div>
                             <div class="col-xs-6 col-sm-4 col-lg-4">
                                 <div class="row no-gutter">

@@ -1,4 +1,9 @@
-/* The version of Bourbon used in this Pen was 4.* */
+/*     <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->* */
 @import "bourbon";
 
 // Main Colors
@@ -17,7 +22,7 @@ $module-width: 320px;
 body {
   background: #e9e9e9;
   color: $gray;
-  font-family: 'RobotoDraft', 'Roboto', sans-serif;
+  font-family: "RobotoDraft", "Roboto", sans-serif;
   font-size: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -45,7 +50,12 @@ body {
     }
   }
 }
-
+/*     <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->* */
 /* Form Module */
 .form-module {
   position: relative;
@@ -53,7 +63,7 @@ body {
   max-width: $module-width;
   width: 100%;
   border-top: 5px solid $accent;
-  box-shadow: 0 0 3px rgba($black, .1);
+  box-shadow: 0 0 3px rgba($black, 0.1);
   margin: 0 auto;
   .toggle {
     cursor: pointer;
@@ -73,21 +83,21 @@ body {
       top: 5px;
       right: -65px;
       display: block;
-      background: rgba($black, .6%);
+      background: rgba($black, 0.6%);
       width: auto;
       padding: 5px;
       font-size: 10px;
       line-height: 1;
       text-transform: uppercase;
       &:before {
-        content: '';
+        content: "";
         position: absolute;
         top: 5px;
         left: -5px;
         display: block;
         border-top: 5px solid transparent;
         border-bottom: 5px solid transparent;
-        border-right: 5px solid rgba($black, .6);
+        border-right: 5px solid rgba($black, 0.6);
       }
     }
   }
@@ -114,7 +124,7 @@ body {
     padding: 10px 15px;
     box-sizing: border-box;
     font-wieght: 400;
-    @include transition(.3s ease);
+    @include transition(0.3s ease);
     &:focus {
       border: 1px solid $accent;
       color: $dark-gray;
@@ -127,7 +137,7 @@ body {
     border: 0;
     padding: 10px 15px;
     color: $white;
-    @include transition(.3s ease);
+    @include transition(0.3s ease);
     &:hover {
       background: darken($accent, 15%);
     }
@@ -136,7 +146,7 @@ body {
     background: darken($white, 5%);
     width: 100%;
     padding: 15px 40px;
-    box-sizing: border-box;    
+    box-sizing: border-box;
     color: $gray;
     font-size: 12px;
     text-align: center;
@@ -146,3 +156,9 @@ body {
     }
   }
 }
+/*     <!--  Author Name: MH RONY.
+                        GigHub Link: https://github.com/dev-mhrony
+                        Facebook Link:https://www.facebook.com/dev.mhrony
+                        Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
+                        for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
+                        Visit My Website : developerrony.com -->* */
