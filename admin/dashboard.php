@@ -374,6 +374,8 @@ for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@
                 </div>
             </div>
 
+            <?php include "include/footer.php" ?>
+
             <script src="js/lib/jquery/jquery.min.js"></script>
             <script src="js/lib/bootstrap/js/popper.min.js"></script>
             <script src="js/lib/bootstrap/js/bootstrap.min.js"></script>
